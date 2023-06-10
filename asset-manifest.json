@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/young_stars_/static/css/main.bdd8402b.css",
+    "main.js": "/young_stars_/static/js/main.6074dde7.js",
+    "static/js/787.4aad1aee.chunk.js": "/young_stars_/static/js/787.4aad1aee.chunk.js",
+    "static/media/Artificial Intelligence.png": "/young_stars_/static/media/Artificial Intelligence.05184cf5f5f3d9f99b6e.png",
+    "static/media/Programming.png": "/young_stars_/static/media/Programming.0bf799fe1f5f79814d30.png",
+    "static/media/Young Stars Mission.png": "/young_stars_/static/media/Young Stars Mission.a917095ac52de2dd5eb7.png",
+    "static/media/Robotics.png": "/young_stars_/static/media/Robotics.f03310bb43f7e8d1977f.png",
+    "static/media/Technical Development.png": "/young_stars_/static/media/Technical Development.04011b3c1f3fb8f7494d.png",
+    "static/media/websiteLogo.png": "/young_stars_/static/media/websiteLogo.385420744b772df2dddc.png",
+    "static/media/testimonial_image.png": "/young_stars_/static/media/testimonial_image.82ae2afbaa640a950658.png",
+    "static/media/footer_2_icon.png": "/young_stars_/static/media/footer_2_icon.a3d4198f755714aceea4.png",
+    "static/media/Mental Development.png": "/young_stars_/static/media/Mental Development.ae546dc6ece903c521a4.png",
+    "static/media/whatsappIcon.png": "/young_stars_/static/media/whatsappIcon.d73c2b57fe95df1785ba.png",
+    "index.html": "/young_stars_/index.html",
+    "main.bdd8402b.css.map": "/young_stars_/static/css/main.bdd8402b.css.map",
+    "main.6074dde7.js.map": "/young_stars_/static/js/main.6074dde7.js.map",
+    "787.4aad1aee.chunk.js.map": "/young_stars_/static/js/787.4aad1aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd8402b.css",
+    "static/js/main.6074dde7.js"
+  ]
+}
